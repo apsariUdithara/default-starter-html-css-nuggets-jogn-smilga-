@@ -85,3 +85,6 @@ Library/Faster Approach
 #### Box Shadow
 
 - [tailwind](https://tailwindcss.com/docs/box-shadow)
+
+## Avatar
+-[pexels](https://www.pexels.com/search/person/)
